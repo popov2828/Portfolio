@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "67328f4d25d0b2b4f967da8d"
+  },
+  "title": "Toyota",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:12:13.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:12:13.460Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732949b25d0b2b4f967da9a"
+  },
+  "title": "Volkswagen",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732949b25d0b2b4f967da9b"
+  },
+  "title": "Audi",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732949b25d0b2b4f967da9c"
+  },
+  "title": "Skoda",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732949b25d0b2b4f967da9d"
+  },
+  "title": "Bmw",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732949b25d0b2b4f967da9e"
+  },
+  "title": "Acura",
+  "logoFilename": "toyota_logo.png",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:51.972Z"
+  }
+}]

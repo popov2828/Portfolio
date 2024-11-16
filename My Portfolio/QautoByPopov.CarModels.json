@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67328f6b25d0b2b4f967da8e"
+  },
+  "carBrandId": {
+    "$oid": "67328f4d25d0b2b4f967da8d"
+  },
+  "title": "Camry",
+  "createdAt": {
+    "$date": "2024-11-11T23:12:43.295Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:12:43.295Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294a925d0b2b4f967da9f"
+  },
+  "carBrandId": {
+    "$oid": "67328f4d25d0b2b4f967da8d"
+  },
+  "title": "atlas cross",
+  "createdAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294a925d0b2b4f967daa0"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9a"
+  },
+  "title": "a4",
+  "createdAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294a925d0b2b4f967daa1"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9b"
+  },
+  "title": "octavia",
+  "createdAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294a925d0b2b4f967daa2"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9c"
+  },
+  "title": "m2 competition",
+  "createdAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294a925d0b2b4f967daa3"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9d"
+  },
+  "title": "tlx",
+  "createdAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:05.002Z"
+  }
+}]

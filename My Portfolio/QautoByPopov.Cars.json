@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6732903e25d0b2b4f967da8f"
+  },
+  "carBrandId": {
+    "$oid": "67328f4d25d0b2b4f967da8d"
+  },
+  "carModelId": {
+    "$oid": "67328f6b25d0b2b4f967da8e"
+  },
+  "userId": {
+    "$oid": "67328f0e25d0b2b4f967da8b"
+  },
+  "mileage": 15000,
+  "initialMileage": 5000,
+  "createdAt": {
+    "$date": "2024-11-11T23:16:14.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:16:14.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294b725d0b2b4f967daa4"
+  },
+  "carBrandId": {
+    "$oid": "67328f4d25d0b2b4f967da8d"
+  },
+  "carModelId": {
+    "$oid": "67328f6b25d0b2b4f967da8e"
+  },
+  "userId": {
+    "$oid": "67328f0e25d0b2b4f967da8b"
+  },
+  "mileage": 5000,
+  "initialMileage": 0,
+  "createdAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294b725d0b2b4f967daa5"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9a"
+  },
+  "carModelId": {
+    "$oid": "673294a925d0b2b4f967da9f"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da90"
+  },
+  "mileage": 12000,
+  "initialMileage": 5000,
+  "createdAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294b725d0b2b4f967daa6"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9b"
+  },
+  "carModelId": {
+    "$oid": "673294a925d0b2b4f967daa0"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da91"
+  },
+  "mileage": 7500,
+  "initialMileage": 1000,
+  "createdAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294b725d0b2b4f967daa7"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9c"
+  },
+  "carModelId": {
+    "$oid": "673294a925d0b2b4f967daa1"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da92"
+  },
+  "mileage": 10234,
+  "initialMileage": 500,
+  "createdAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "673294b725d0b2b4f967daa8"
+  },
+  "carBrandId": {
+    "$oid": "6732949b25d0b2b4f967da9d"
+  },
+  "carModelId": {
+    "$oid": "673294a925d0b2b4f967daa2"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da93"
+  },
+  "mileage": 3000,
+  "initialMileage": 0,
+  "createdAt": {
+    "$date": "2024-11-11T23:35:19.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:35:19.120Z"
+  }
+}]

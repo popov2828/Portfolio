@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "67328f3b25d0b2b4f967da8c"
+  },
+  "userId": {
+    "$oid": "67328f0e25d0b2b4f967da8b"
+  },
+  "name": "Ivan",
+  "lastName": "Petrenko",
+  "dateOfBirth": {
+    "$date": "1990-01-15T00:00:00.000Z"
+  },
+  "country": "Ukraine",
+  "createdAt": {
+    "$date": "2024-11-11T23:11:55.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:11:55.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732948e25d0b2b4f967da95"
+  },
+  "userId": {
+    "$oid": "67328f0e25d0b2b4f967da8b"
+  },
+  "name": "Vasya",
+  "lastName": "Pupkin",
+  "dateOfBirth": {
+    "$date": "1990-01-15T00:00:00.000Z"
+  },
+  "country": "Україна",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732948e25d0b2b4f967da96"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da90"
+  },
+  "name": "Ivan",
+  "lastName": "Ivanov",
+  "dateOfBirth": {
+    "$date": "1985-05-21T00:00:00.000Z"
+  },
+  "country": "Польща",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732948e25d0b2b4f967da97"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da91"
+  },
+  "name": "Taras",
+  "lastName": "Tarasov",
+  "dateOfBirth": {
+    "$date": "1992-10-05T00:00:00.000Z"
+  },
+  "country": "Словаччина",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732948e25d0b2b4f967da98"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da92"
+  },
+  "name": "Vova",
+  "lastName": "Shevchenko",
+  "dateOfBirth": {
+    "$date": "1995-03-12T00:00:00.000Z"
+  },
+  "country": "США",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6732948e25d0b2b4f967da99"
+  },
+  "userId": {
+    "$oid": "673293c425d0b2b4f967da93"
+  },
+  "name": "Anna",
+  "lastName": "Ananasova",
+  "dateOfBirth": {
+    "$date": "1988-08-18T00:00:00.000Z"
+  },
+  "country": "Канада",
+  "createdAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-11T23:34:38.973Z"
+  }
+}]
